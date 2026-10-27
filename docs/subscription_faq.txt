@@ -1,0 +1,13 @@
+Subscription FAQ
+
+Q: How can I upgrade my subscription?
+A: Navigate to Account Settings and select Upgrade Plan.
+
+Q: Can I downgrade my plan?
+A: Yes, changes take effect at the next billing cycle.
+
+Q: Can I cancel my subscription?
+A: Yes, users may cancel at any time through Account Settings.
+
+Q: Will my data be deleted after cancellation?
+A: No, account data remains available for 30 days.

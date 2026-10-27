@@ -1,0 +1,15 @@
+Security Best Practices
+
+To protect your account:
+
+* Use strong passwords.
+* Enable two-factor authentication.
+* Do not share login credentials.
+* Regularly update passwords.
+* Monitor account activity.
+
+If suspicious activity is detected:
+
+1. Change password immediately.
+2. Enable security features.
+3. Contact support.

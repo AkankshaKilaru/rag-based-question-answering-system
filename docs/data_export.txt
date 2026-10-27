@@ -1,0 +1,12 @@
+Data Export Guide
+
+Users can export their account data from the settings page.
+
+Steps:
+
+1. Open Settings.
+2. Select Data Export.
+3. Choose export format.
+4. Confirm request.
+
+Export files may take several minutes to generate depending on data size.

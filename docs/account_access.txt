@@ -1,0 +1,17 @@
+Account Access Guide
+
+Users who cannot access their accounts should verify their credentials and account status.
+
+Possible Reasons:
+
+* Multiple failed login attempts.
+* Unverified email address.
+* Suspicious account activity.
+* Temporary account restriction.
+
+Recommended Actions:
+
+1. Verify email ownership.
+2. Reset password.
+3. Wait 15 minutes before retrying.
+4. Contact support if access is still unavailable.

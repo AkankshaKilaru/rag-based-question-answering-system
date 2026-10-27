@@ -1,0 +1,17 @@
+User Permissions Guide
+
+The platform supports role-based access control.
+
+Roles:
+
+* Administrator
+* Manager
+* Standard User
+
+Permissions:
+
+* Administrators can manage users and settings.
+* Managers can view reports and team data.
+* Standard Users can access personal resources.
+
+Permission changes require administrator approval.

@@ -1,0 +1,17 @@
+Payment Issues Guide
+
+Common Payment Problems:
+
+* Card declined.
+* Insufficient funds.
+* Expired card.
+* Bank verification failure.
+
+Recommended Actions:
+
+1. Verify payment information.
+2. Contact your bank.
+3. Try an alternate payment method.
+4. Retry payment after a few minutes.
+
+Persistent issues should be reported to billing support.

@@ -1,0 +1,11 @@
+Billing Policy
+
+Billing occurs automatically at the beginning of each subscription cycle.
+
+Important Policies:
+
+* Payments are processed securely.
+* Failed payments may result in temporary service suspension.
+* Billing dates are visible in Account Settings.
+
+If a billing discrepancy occurs, users should contact the billing department for review.
